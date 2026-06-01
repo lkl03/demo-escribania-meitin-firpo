@@ -1,2 +1,7 @@
-# demo-escribania-meitin-firpo
-Demo web para Escribanía Meitin Firpo — diseñada por eterlab.
+# Escribanía Meitin Firpo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
